@@ -6,8 +6,8 @@
     <label for="name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
-    <label for="mobile1"><b>Enter Mobile1</b></label>
-    <input type="text" placeholder="Enter Mobile1" name="mobile1" id="mobile1" required>
+    <label for="mobile"><b>Enter Mobile</b></label>
+    <input type="text" placeholder="Enter Mobile" name="mobile" id="mobile" required>
     <br>
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
